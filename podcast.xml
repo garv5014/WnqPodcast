@@ -8,6 +8,8 @@ layout: null
         <title>{{ site.podcast.title }}</title>
         <description>{{ site.podcast.description }}</description>
         <link>{{ '/' | absolute_url }}</link>
+        <author> {{site.podcast.author}}</author>
+        <email> {{site.podcast.email}}</author>
         <itunes:author>{{ site.podcast.author }}</itunes:author>
         <itunes:email>{{ site.podcast.email }}</itunes:email>
         <itunes:image href='{{ site.podcast.logo }}'/>
