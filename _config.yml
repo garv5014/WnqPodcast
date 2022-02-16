@@ -35,7 +35,7 @@ podcast:
   url: /podcast.xml # podcast xml url
   author: [We're Not Qualified]
   email: [wnqpod@gmail.com]
-  logo: [http://wnq-podcast2022.s3.us-west-2.amazonaws.com/logo.png] # logo in 1400 – 3000 pixel
+  logo: [wnq-podcast2022.s3.us-west-2.amazonaws.com/logo.png] # logo in 1400 – 3000 pixel
   language: [eng] # http://www.loc.gov/standards/iso639-2/php/code_list.php
   category: [Comedy] # https://help.apple.com/itc/podcasts_connect/#/itc9267a2f12
   subcategory: [Funny]

@@ -7,7 +7,7 @@ season: 2
 episode: 9
 episodeType: full # full | trailer | bonus
 explicit: false # true | false
-audio: http://wnq-podcast2022.s3.us-west-2.amazonaws.com/episode2
+audio: https://wnq-podcast2022.s3.us-west-2.amazonaws.com/episode2.mp3
 length: 3927 # in seconds
 ---
 Note **this episode**
