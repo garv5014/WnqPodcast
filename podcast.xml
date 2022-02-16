@@ -8,33 +8,33 @@ layout: null
         <title>{{ site.podcast.title }}</title>
         <description>{{ site.podcast.description }}</description>
         <link>{{ '/' | absolute_url }}</link>
-        <itunes:author>{{ site.podcast.author }}</itunes:author>
-        <itunes:email>{{ site.podcast.email }}</itunes:email>
-        <itunes:image href='{{ site.podcast.logo | absolute_url }}'/>
+        <author>{{ site.podcast.author }}</author>
+        <email>{{ site.podcast.email }}</email>
+        <image href='{{ site.podcast.logo | absolute_url }}'/>
         <language>{{ site.podcast.language }}</language>
         <copyright>copyright © {{ site.podcast.author }}</copyright>
-        <itunes:owner>
-            <itunes:name>{{ site.podcast.author }}</itunes:name>
-            <itunes:email>{{ site.podcast.email }}</itunes:email>
-        </itunes:owner>
-        <itunes:category text='{{ site.podcast.category }}'>
-            <itunes:category text='{{ site.podcast.subcategory }}'/>
-        </itunes:category>
-        <itunes:type>{{ site.podcast.type }}</itunes:type>
-        <itunes:explicit>{{ site.podcast.explicit }}</itunes:explicit>
-        <itunes:complete>{{ site.podcast.complete }}</itunes:complete>
-        <itunes:block>{{ site.podcast.block }}</itunes:block>
+        <owner>
+            <name>{{ site.podcast.author }}</name>
+            <email>{{ site.podcast.email }}</email>
+        </owner>
+        <category text='{{ site.podcast.category }}'>
+            <category text='{{ site.podcast.subcategory }}'/>
+        </category>
+        <type>{{ site.podcast.type }}</type>
+        <explicit>{{ site.podcast.explicit }}</explicit>
+        <complete>{{ site.podcast.complete }}</complete>
+        <block>{{ site.podcast.block }}</block>
         {% for post in site.categories.podcast %}
         <item>
             <title>{{ post.title }}</title>
-            <itunes:author>{{ post.author }}</itunes:author>
-            <itunes:season>{{ post.season }}</itunes:season>
-            <itunes:episode>{{ post.episode }}</itunes:episode>
-            <itunes:episodeType>{{ post.episodeType }}</itunes:episodeType>
-            <itunes:explicit>{{ post.explicit }}</itunes:explicit>
+            <author>{{ post.author }}</author>
+            <season>{{ post.season }}</season>
+            <episode>{{ post.episode }}</episode>
+            <episodeType>{{ post.episodeType }}</episodeType>
+            <explicit>{{ post.explicit }}</explicit>
             <link>{{ post.url | absolute_url }}</link>
             <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-            <itunes:duration>{{ post.length | xml_escape }}</itunes:duration>
+            <duration>{{ post.length | xml_escape }}</duration>
             <enclosure url='{{ post.audio | absolute_url }}' length='{{ post.length | xml_escape }}'/>
             <description>{{ post.content | xml_escape | strip_newlines }}</description>
         </item>
