@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: WNQ Podcast
+email: wnqpod@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -28,6 +28,21 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
+
+podcast:
+  title: We're not qualified
+  description: [Gay]
+  url: /podcast.xml # podcast xml url
+  author: [We're Not Qualified]
+  email: [wnqpod@gmail.com]
+  logo: [podcast logo url] # logo in 1400 – 3000 pixel
+  language: [eng] # http://www.loc.gov/standards/iso639-2/php/code_list.php
+  category: [Comedy] # https://help.apple.com/itc/podcasts_connect/#/itc9267a2f12
+  subcategory: [Funny]
+  type: [Episodic] # episodic | serial
+  explicit: [false] # true | false
+  complete: [yes] # 'yes' | 'no'
+  block: [no] # 'yes' | 'no'
 
 # Build settings
 theme: minima
