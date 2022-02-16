@@ -35,10 +35,10 @@ podcast:
   url: /podcast.xml # podcast xml url
   author: [We're Not Qualified]
   email: [wnqpod@gmail.com]
-  logo: [wnq-podcast2022.s3.us-west-2.amazonaws.com/logo.png] # logo in 1400 – 3000 pixel
-  language: [eng] # http://www.loc.gov/standards/iso639-2/php/code_list.php
+  logo: [http://wnq-podcast2022.s3.us-west-2.amazonaws.com/Logo.png] # logo in 1400 – 3000 pixel
+  language: [eng-us] # http://www.loc.gov/standards/iso639-2/php/code_list.php
   category: [Comedy] # https://help.apple.com/itc/podcasts_connect/#/itc9267a2f12
-  subcategory: [Funny]
+  subcategory: []
   type: [Episodic] # episodic | serial
   explicit: [false] # true | false
   complete: [yes] # 'yes' | 'no'
@@ -57,14 +57,14 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
