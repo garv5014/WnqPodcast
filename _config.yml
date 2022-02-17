@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: WNQ Podcast
+title: Wer're Not Qualified Podcast
 email: wnqpod@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -30,8 +30,10 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 podcast:
-  title: We're not qualified
-  description: [Gay]
+  title: We're Not Qualified
+  description: [ A podcast that was birthed out of the random conversations that are had between friends. We cover a wide range of topics that you guessed, we aren't qualified to talk about
+    We are not qualified sources for any of the topics that are discussed. 
+ ]
   url: /podcast.xml # podcast xml url
   author: [We're Not Qualified]
   email: [wnqpod@gmail.com]
