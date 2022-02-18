@@ -7,7 +7,7 @@ season: 1
 episode: 1
 episodeType: full # full | trailer | bonus
 explicit: false # true | false
-audio: http://wnq-podcast2022.s3.us-west-2.amazonaws.com/episode2.mp3
+audio: http://wnq-podcast2022.s3.us-west-2.amazonaws.com/Episode2.mp3
 length: 5621 # in seconds
 ---
 In this episode we talk about recent Christmas events and give some dating tips to our guests.
