@@ -34,11 +34,11 @@ podcast:
   description: [ A podcast that was birthed out of the random conversations that are had between friends. We cover a wide range of topics that you guessed it!! We aren't qualified to talk about
    We are not qualified sources for any of the topics that are discussed. 
  ]
-  url: /podcast.xml # podcast xml url
+  url: https://garv5014.github.io/WnqPodcast/podcast.xml # podcast xml url
   author: [We're Not Qualified]
   email: [wnqpod@gmail.com]
   logo: [https://wnq-podcast2022.s3.us-west-2.amazonaws.com/LogoWNQ.png] # logo in 1400 – 3000 pixel
-  language: [eng-us] # http://www.loc.gov/standards/iso639-2/php/code_list.php
+  language: [en-us] # http://www.loc.gov/standards/iso639-2/php/code_list.php
   category: [Comedy] # https://help.apple.com/itc/podcasts_connect/#/itc9267a2f12
   subcategory: []
   type: [Episodic] # episodic | serial
