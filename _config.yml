@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: WNQ Podcast
+title: Wer're Not Qualified Podcast
 email: wnqpod@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -30,15 +30,17 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 podcast:
-  title: We're not qualified
-  description: [Gay]
-  url: /podcast.xml # podcast xml url
+  title: We're Not Qualified
+  description: [ A podcast that was birthed out of the random conversations that are had between friends. We cover a wide range of topics that you guessed it!! We aren't qualified to talk about
+   We are not qualified sources for any of the topics that are discussed. 
+ ]
+  url: https://garv5014.github.io/WnqPodcast/podcast.xml # podcast xml url
   author: [We're Not Qualified]
   email: [wnqpod@gmail.com]
-  logo: [podcast logo url] # logo in 1400 – 3000 pixel
-  language: [eng] # http://www.loc.gov/standards/iso639-2/php/code_list.php
+  logo: [https://wnq-podcast2022.s3.us-west-2.amazonaws.com/LogoWNQ.png] # logo in 1400 – 3000 pixel
+  language: [en-us] # http://www.loc.gov/standards/iso639-2/php/code_list.php
   category: [Comedy] # https://help.apple.com/itc/podcasts_connect/#/itc9267a2f12
-  subcategory: [Funny]
+  subcategory: []
   type: [Episodic] # episodic | serial
   explicit: [false] # true | false
   complete: [yes] # 'yes' | 'no'
@@ -57,14 +59,14 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/

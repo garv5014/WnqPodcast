@@ -1,13 +1,13 @@
 ---
 layout: podcast
 categories: podcast # podcast
-title: jekyll podcast sample
-author: sayo melu
-season: 2
-episode: 9
+title: Christmas Dating
+author: We're not Qualified 
+season: 1
+episode: 1
 episodeType: full # full | trailer | bonus
 explicit: false # true | false
-audio: https://sample.net/audio.opus
-length: 3927 # in seconds
+audio: https://wnq-podcast2022.s3.us-west-2.amazonaws.com/Episode2.mp3
+length: 5621 # in seconds
 ---
-Note **this episode**
+In this episode we talk about recent Christmas events and give some dating tips to our guests.
