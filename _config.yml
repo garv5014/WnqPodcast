@@ -40,7 +40,7 @@ podcast:
   logo: [https://wnq-podcast2022.s3.us-west-2.amazonaws.com/LogoWNQ.png] # logo in 1400 – 3000 pixel
   language: [en-us] # http://www.loc.gov/standards/iso639-2/php/code_list.php
   category: [Comedy] # https://help.apple.com/itc/podcasts_connect/#/itc9267a2f12
-  subcategory: []
+  subcategory: [entertainment, ]
   type: [Episodic] # episodic | serial
   explicit: [false] # true | false
   complete: [yes] # 'yes' | 'no'

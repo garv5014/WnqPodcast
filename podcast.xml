@@ -8,11 +8,11 @@ xmlns:media="http://search.yahoo.com/mrss/"
 xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 xmlns:dcterms="http://purl.org/dc/terms/"
 xmlns:spotify="http://www.spotify.com/ns/rss"
-xmlns:psc="http://podlove.org/simple-chapters/" >
+xmlns:psc="http://podlove.org/simple-chapters/" > 
     <channel>
         <title>{{ site.podcast.title }}</title>
         <description>{{ site.podcast.description }}</description>
-        <link>{{ '/' | absolute_url }}</link>
+        <link> https://garv5014.github.io/WnqPodcast/podcast.xml</link>
         <itunes:author>{{ site.podcast.author }}</itunes:author>
         <itunes:email>{{ site.podcast.email }}</itunes:email>
         <itunes:image href='{{ site.podcast.logo }}'/>
@@ -33,6 +33,7 @@ xmlns:psc="http://podlove.org/simple-chapters/" >
         {% for post in site.categories.podcast %}
         <item>
             <title>{{ post.title }}</title>
+            <author>{{post.author}} </author>
             <itunes:author>{{ post.author }}</itunes:author>
             <itunes:season>{{ post.season }}</itunes:season>
             <itunes:episode>{{ post.episode }}</itunes:episode>
@@ -41,7 +42,7 @@ xmlns:psc="http://podlove.org/simple-chapters/" >
             <link>{{ post.url | absolute_url }}</link>
             <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
             <itunes:duration>{{ post.length | xml_escape }}</itunes:duration>
-            <enclosure url='{{ post.audio }}' length='{{ post.length | xml_escape }}'/>
+            <enclosure url='{{ post.audio }}' length='{{ post.length | xml_escape }}' type="audio/mpeg"/>
             <description>{{ post.content | xml_escape | strip_newlines }}</description>
         </item>
         {% endfor %}
