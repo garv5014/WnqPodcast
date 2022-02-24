@@ -1,0 +1,13 @@
+---
+layout: podcast
+categories: podcast # podcast
+title: How do spiders wink? #[X] Change
+author: We're not Qualified 
+season: 1
+episode: 3
+episodeType: full # full | trailer | bonus
+explicit: false # true | false
+audio: https://wnq-podcast2022.s3.us-west-2.amazonaws.com/Episode4.mp3
+length: 3718 # in seconds [X]Change
+---
+Today the boys talk about how testing ruined there lives before breaking down and talking about the elusive winking spider.

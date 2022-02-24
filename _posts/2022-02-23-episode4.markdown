@@ -1,0 +1,13 @@
+---
+layout: podcast
+categories: podcast # podcast
+title: We're no Qualified to talk about youtube.
+author: We're not Qualified 
+season: 1
+episode: 4
+episodeType: full # full | trailer | bonus
+explicit: false # true | false
+audio: https://wnq-podcast2022.s3.us-west-2.amazonaws.com/Episode5.mp3
+length: 4207 # in seconds
+---
+This episode Garrett and Bridger dig deep into the rabbit hole of youtube to talk about some of their favorite channels and videos. 

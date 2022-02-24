@@ -1,0 +1,13 @@
+---
+layout: podcast
+categories: podcast # podcast
+title: Bridger did what with a Kangaroo?
+author: We're not Qualified 
+season: 1
+episode: 5
+episodeType: full # full | trailer | bonus
+explicit: false # true | false
+audio: https://wnq-podcast2022.s3.us-west-2.amazonaws.com/Episode0.6Copy.mp3
+length: 3915 # in seconds
+---
+Bridger tells his life down under. The bois try to clasify Kirby and talk about the new Nitendo direct.
