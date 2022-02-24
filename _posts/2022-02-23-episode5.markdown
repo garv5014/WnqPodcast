@@ -1,7 +1,7 @@
 ---
 layout: podcast
 categories: podcast # podcast
-title: Bridger did what with a Kangaroo?
+title: EP5 Bridger did what with a Kangaroo?
 author: We're not Qualified 
 season: 1
 episode: 5

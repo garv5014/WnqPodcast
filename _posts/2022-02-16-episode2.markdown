@@ -1,7 +1,7 @@
 ---
 layout: podcast
 categories: podcast # podcast
-title: Wedding Woes
+title: EP2 Wedding Woes
 author: We're not Qualified 
 season: 1
 episode: 2

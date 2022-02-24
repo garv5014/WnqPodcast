@@ -1,7 +1,7 @@
 ---
 layout: podcast
 categories: podcast # podcast
-title: How do spiders wink? #[X] Change
+title: EP3 How do spiders wink? #[X] Change
 author: We're not Qualified 
 season: 1
 episode: 3
