@@ -10,4 +10,4 @@ explicit: false # true | false
 audio: https://wnq-podcast2022.s3.us-west-2.amazonaws.com/Episode7.mp3
 length: 4001  # in seconds [X]Change
 ---
-The bois tackle the issues with movies and reminisce about the good Old days of yonder past.
+The bois tackle the issues with videogame movies and reminisce about the good Old days of yonder past.
