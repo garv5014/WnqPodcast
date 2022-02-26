@@ -32,7 +32,7 @@ github_username:  jekyll
 podcast:
   title: We're Not Qualified
   description: [ A podcast that was birthed out of the random conversations that are had between friends. We cover a wide range of topics that you guessed it!! We aren't qualified to talk about
-   We are not qualified sources for any of the topics that are discussed. 
+   We are not qualified sources for any of the topics that are discussed. Shout out to mitchypoohbear on Youtube for the cover art https://www.youtube.com/channel/UCsy9WrqIgrAal2uVqeCQqEQ/videos.
  ]
   url: https://garv5014.github.io/WnqPodcast/podcast.xml # podcast xml url
   author: [We're Not Qualified]
