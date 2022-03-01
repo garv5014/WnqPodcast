@@ -1,7 +1,7 @@
 ---
 layout: podcast
 categories: podcast # podcast
-title:  EP4 We're no Qualified to talk about youtube.
+title:  EP4 We're not Qualified to talk about youtube.
 author: We're not Qualified 
 season: 1
 episode: 4
