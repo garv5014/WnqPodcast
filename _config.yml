@@ -37,7 +37,7 @@ podcast:
   url: https://garv5014.github.io/WnqPodcast/podcast.xml # podcast xml url
   author: [We're Not Qualified]
   email: [wnqpod@gmail.com]
-  logo: [https://wnq-podcast2022.s3.us-west-2.amazonaws.com/WNQ#1400X14000.jpg] # logo in 1400 – 3000 pixel
+  logo: [/CoOf] # logo in 1400 – 3000 pixel
   language: [en-us] # http://www.loc.gov/standards/iso639-2/php/code_list.php
   category: [Comedy] # https://help.apple.com/itc/podcasts_connect/#/itc9267a2f12
   subcategory: [entertainment, ]
