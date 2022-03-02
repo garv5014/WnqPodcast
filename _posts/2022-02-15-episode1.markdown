@@ -10,5 +10,5 @@ explicit: false # true | false
 audio: https://wnq-podcast2022.s3.us-west-2.amazonaws.com/Episode2.mp3
 length: 5621 # in seconds
 ---
-WARNING!!! The Audio For This Episode Is NOT GOOD. It improves in later episodes but we were still figuring things out for this one and we apologize for the bad Audio.
+WARNING!!! The Audio For This Episode Is NOT GOOD. It improves in later episodes but we were still figuring things out for this one and we apologize for the bad Audio. 
 In this episode we talk about recent Christmas events and give some dating tips to our guests.
