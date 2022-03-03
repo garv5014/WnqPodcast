@@ -11,4 +11,4 @@ audio: https://wnq-podcast2022.s3.us-west-2.amazonaws.com/Episode8.mp3
 length: 4001 # in seconds [X]Change
 ---
 In this episode Garrett and Emily talk about how they met and their favorite songs! 
-Volume warning!! This episode was recorded a little loud. 
+Volume warning!! This episode was recorded a little loud. Here is the link to the music playlist https://open.spotify.com/playlist/6UG3NZn65KDYXPWxw8BtZM?si=HzfelrifQdyK-2Gy6OMfTQ&utm_source=copy-link
