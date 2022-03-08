@@ -1,0 +1,13 @@
+---
+layout: podcast
+categories: podcast # podcast
+title: EP8 We are Not Qualified to Talk About Theater #[X] Change
+author: We're not Qualified 
+season: 1
+episode: 8
+episodeType: full # full | trailer | bonus
+explicit: false # true | false
+audio: https://wnq-podcast2022.s3.us-west-2.amazonaws.com/Episode9.mp3
+length: 3754 # in seconds [X]Change
+---
+In this show we talk about our recent trip to the theater and 
