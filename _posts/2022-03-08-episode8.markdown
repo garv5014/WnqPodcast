@@ -10,4 +10,4 @@ explicit: false # true | false
 audio: https://wnq-podcast2022.s3.us-west-2.amazonaws.com/Episode9.mp3
 length: 3754 # in seconds [X]Change
 ---
-In this episode Bridger is back and we talk some new speedrun tech and our trip to the theater.
+In this episode Bridger is back and we talk about some new speedrun tech and our trip to the theater.
