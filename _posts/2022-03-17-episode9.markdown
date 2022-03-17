@@ -1,0 +1,13 @@
+---
+layout: podcast
+categories: podcast # podcast
+title: EP9 We are Not Qualified to Talk About Disneyland #[X] Change
+author: We're not Qualified 
+season: 1
+episode: 9
+episodeType: full # full | trailer | bonus
+explicit: false # true | false
+audio: https://wnq-podcast2022.s3.us-west-2.amazonaws.com/Episode10.mp3
+length: 4187 # in seconds [X]Change
+---
+This time the bois talk about their spring break shenanigans. Tune in to hear the Disney tier list.
