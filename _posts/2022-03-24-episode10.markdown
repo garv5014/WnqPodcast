@@ -1,0 +1,13 @@
+---
+layout: podcast
+categories: podcast # podcast
+title: EP10 We are Not Qualified to Talk About Dice Games #[X] Change
+author: We're not Qualified 
+season: 1
+episode: 10
+episodeType: full # full | trailer | bonus
+explicit: false # true | false
+audio: https://wnq-podcast2022.s3.us-west-2.amazonaws.com/Episode11.mp3
+length: 4187 # in seconds [X]Change
+---
+This week on the pod we have a special guest to talk about table top games. 
