@@ -1,7 +1,7 @@
 ---
 layout: podcast
 categories: podcast # podcast
-title: EP10 We are Not Qualified to Talk About Dice Games #[X] Change
+title: EP11 Wiki What!!! #[X] Change
 author: We're not Qualified 
 season: 1
 episode: 10
