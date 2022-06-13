@@ -1,0 +1,13 @@
+---
+layout: podcast
+categories: podcast # podcast
+title: EP13  It's Morbin time #[X] Change
+author: We're not Qualified 
+season: 1
+episode: 13
+episodeType: full # full | trailer | bonus
+explicit: false # true | false
+audio: https://wnq-podcast2022.s3.us-west-2.amazonaws.com/Episode14.mp3
+length: 4361 # in seconds [X]Change
+---
+In this episode the boys talk about the apple development conference, Garrett eats an egg whole, and Mitch goes for broke with stocks!
